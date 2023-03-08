@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @saikrishnamohan318
-- 👀 I’m interested in web development...
-- 🌱 I’m currently learning full stack web development
+- 🌱 I’m a MERN full stack developer.
 - 📫 How to reach me at saikrishnamohan.kolla@gmail.com
 
 <!---
